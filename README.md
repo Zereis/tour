@@ -19,6 +19,7 @@ I recently undertook the challenge of building a personal website from scratch, 
 - React.js
 - HTML5
 - CSS3
+- Javascript
 - Git and GitHub
 
 ## Screenshots
